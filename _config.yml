@@ -1,0 +1,23 @@
+name: testy
+favicon: null
+layout_spectrum: 0.4029982357751578
+typography_spectrum: 0.5666188967879862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.24823886039666831
+  lightness: 0.08857023203745484
+  saturation: 0.8051989683881402
+  rhythmicContrast: 0.5305764935910702
+purpose: []
