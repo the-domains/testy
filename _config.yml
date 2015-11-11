@@ -1,7 +1,7 @@
 name: testy
 favicon: null
-layout_spectrum: 0.4029982357751578
-typography_spectrum: 0.5666188967879862
+layout_spectrum: 0.88237
+typography_spectrum: 0.75123
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#cc6848'
     - '#84b8e4'
   brandStrength: 0.5
-  lightness: 0.08857023203745484
-  saturation: 0.8051989683881402
-  rhythmicContrast: 0.5305764935910702
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0
 purpose: []
