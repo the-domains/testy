@@ -2,6 +2,7 @@ name: testy
 favicon: null
 layout_spectrum: 0.88237
 typography_spectrum: 0.75123
+title: Ze Title
 cta:
   domain: null
   bucket: null
